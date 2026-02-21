@@ -1,6 +1,5 @@
 package com.example.lib
 
-package com.example.lib
 
 // EJERCICIO 5: Bucle while
 // ========================================
